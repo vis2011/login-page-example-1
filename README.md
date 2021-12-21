@@ -1,1 +1,2 @@
-# login-page-example-1
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
